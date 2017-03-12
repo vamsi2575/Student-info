@@ -1,0 +1,26 @@
+c:\users\guestmit\documents\visual studio 2010\Projects\studentinfo\studentinfo\bin\Debug\studentinfo.exe
+c:\users\guestmit\documents\visual studio 2010\Projects\studentinfo\studentinfo\bin\Debug\studentinfo.pdb
+c:\users\guestmit\documents\visual studio 2010\Projects\studentinfo\studentinfo\obj\x86\Debug\studentinfo.Form1.resources
+c:\users\guestmit\documents\visual studio 2010\Projects\studentinfo\studentinfo\obj\x86\Debug\studentinfo.Properties.Resources.resources
+c:\users\guestmit\documents\visual studio 2010\Projects\studentinfo\studentinfo\obj\x86\Debug\studentinfo.csproj.GenerateResource.Cache
+c:\users\guestmit\documents\visual studio 2010\Projects\studentinfo\studentinfo\obj\x86\Debug\studentinfo.exe
+c:\users\guestmit\documents\visual studio 2010\Projects\studentinfo\studentinfo\obj\x86\Debug\studentinfo.pdb
+C:\Users\Guestmit\Documents\Visual Studio 2010\Projects\studentinfo\studentinfo\obj\x86\Debug\studentinfo.csprojResolveAssemblyReference.cache
+D:\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.exe
+D:\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.pdb
+D:\130911140\studentinfo\studentinfo\bin\Debug\studentinfo.exe
+D:\130911140\studentinfo\studentinfo\bin\Debug\studentinfo.pdb
+D:\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.csprojResolveAssemblyReference.cache
+D:\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.Form1.resources
+D:\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.Properties.Resources.resources
+D:\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.csproj.GenerateResource.Cache
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.exe
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.pdb
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\bin\Debug\studentinfo.exe
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\bin\Debug\studentinfo.pdb
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.csprojResolveAssemblyReference.cache
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.Form1.resources
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.Properties.Resources.resources
+E:\4 sem projects\DBMS\130911140\studentinfo\studentinfo\obj\x86\Debug\studentinfo.csproj.GenerateResource.Cache
+D:\vamsi\130911300\studentinfo\studentinfo\obj\x86\Debug\studentinfo.exe
+D:\vamsi\130911300\studentinfo\studentinfo\obj\x86\Debug\studentinfo.pdb
